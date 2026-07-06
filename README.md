@@ -1,4 +1,4 @@
-# Console-based Expense Tracker
+# Expense Tracker
 
 A simple Core Java console application developed as part of the Upskill Campus Industrial Internship.
 
